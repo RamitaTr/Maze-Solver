@@ -1,4 +1,4 @@
-# maze-solver
+# Maze-Solver
 
 This program contains robot-C 4x6 maze solver algorithm.
 To run the program, the code needs to be download to the Lego EV3 mindstorms.
